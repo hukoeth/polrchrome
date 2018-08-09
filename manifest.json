@@ -4,7 +4,7 @@
   "description": "Shorten URLs with Polr",
   "manifest_version": 2,
   "name": "polrchrome",
-  "version": "0.1",
+  "version": "0.2",
  
   "browser_action": {
     "chrome_style": true,
